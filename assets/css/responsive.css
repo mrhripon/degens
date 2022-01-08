@@ -1,0 +1,411 @@
+
+
+@media screen and (max-width: 1439px) { 
+    .main-menu li a {
+        margin-right: 36px;
+    }
+    .hero-content h1 {
+        font-size: 85px;
+    }
+    .sv-g-wrapper {
+        align-items: center;
+    }
+    .sv-right-part h4 {
+        font-size: 22px;
+    }
+    .sl-item-inner h5 {
+        font-size: 23px;
+        padding: 20px 15px;
+    }
+    .reward-right-part.reward-bg h4 {
+        font-size: 20px;
+    }
+    .sv-g-wrapper.reward {
+        align-items: unset;
+    }
+    .hr-line {
+        left: -30px;
+    }
+    .hr-line::after {
+        left: 45px;
+    }
+    .wass-item.size-2 {
+        min-height: 250px;
+    }
+    .roadmap-area .section-inner {
+        padding-bottom: 60px;
+    }
+    .section.footer-area .section-inner {
+        padding-top: 65px;
+        padding-bottom: 110px;
+    }
+
+
+  }
+@media screen and (max-width: 1199px) {   
+    .header-area {
+        padding: 28px 0;
+    }
+    .hero-content h1 {
+        font-size: 75px;
+        line-height: 1.3;
+    }
+    .section.hero-area {
+        min-height: 800px;
+        padding-bottom: 0;
+    }
+    .hero-content p {
+        margin-bottom: 30px;
+    }
+    .sl-item-inner h5 {
+        font-size: 18px;
+        padding: 15px 15px;
+    }
+    .sv-g-wrapper {
+        display: block;
+    }
+    .sv-left-img {
+        max-width: 490px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .reward-lf-rw h4 {
+        max-width: 250px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .reward-left-wrap {
+        margin-bottom: 30px;
+    }
+    .team-g-wrap {
+        grid-gap: 30px;
+        max-width: 900px;
+    }
+    .roadmap-area .section-inner {
+        padding-bottom: 40px;
+    }
+    .section.footer-area .section-inner {
+        padding-top: 45px;
+        padding-bottom: 90px;
+    }
+
+
+}
+
+@media screen and (max-width: 991px) {
+    .hero-content {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .section.hero-area {
+        min-height: auto;
+        padding-top: 165px;
+    }
+    .hero-content h1 {
+        font-size: 70px;
+        line-height: 1.3;
+    }
+    .three-d-slider {
+        max-width: 710px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .section-title {
+        margin-bottom: 55px;
+    }
+    .section-title h2 {
+        font-size: 45px;
+    }
+    .invitation-content p {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .timer-content {
+        margin-top: 80px;
+    }
+    .inverted-up, .inverted-down {
+        max-height: 65px;
+    }
+    .position-absolute.inverted-up {
+        top: -25px;
+        left: -20px;
+    }
+    .position-absolute.inverted-down {
+        right: -20px;
+        bottom: -15px;
+    }
+    .section-inner {
+        padding: 60px 0;
+    }
+    .wassified-content {
+        text-align: center;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .wassified-content-two {
+        text-align: center;
+    }
+    .wass-item.size-2 {
+        min-height: auto;
+    }
+    .wass-item.size-1 {
+        min-height: 110px;
+    }
+    .wassified-content-two {
+        margin-bottom: 20px;
+    }
+    .reward-area .section-title {
+        margin-bottom: 100px;
+    }
+    .sv-single h5 {
+        font-size: 16px;
+    }
+    .roadmap-phase {
+        display: block;
+    }
+    .hr-line {
+        display: none;
+    }
+    .single-phase h4 {
+        margin-bottom: 20px;
+        margin-left: -20px;
+    }
+    .roadmap-phase li:not(:last-child) .single-phase {
+        margin-bottom: 45px;
+    }
+    .green-dot {
+        display: block;
+    }
+    .join-title h2 {
+        margin-bottom: 20px;
+    }
+    .full-w-slider-rw-wrap {
+        margin-top: 140px;
+        margin-bottom: 0;
+    }
+    .roadmap-area .section-inner {
+        padding-bottom: 40px;
+    }
+    .section.footer-area .section-inner {
+        padding-top: 45px;
+        padding-bottom: 70px;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    .cs-padding {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .site_logo span {
+        display: none;
+    }
+    .section-title h2 {
+        font-size: 28px;
+    }
+    .section-inner {
+        padding: 60px 0;
+    }
+    .social-links a img {
+        width: 25px;
+        max-height: 23px;
+    }
+    .social-links li:not(:first-child) {
+        margin-left: 20px;
+    }
+    .header-area {
+        padding: 12px 0;
+    }
+    .site_logo img {
+        max-width: 36px;
+    }
+    .header-area.sticky {
+        padding: 12px 0;
+    }
+    .three-d-slider {
+        max-width: 350px;
+    }
+    .hero-content h1 {
+        font-size: 45px;
+    }
+    .hero-content p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .sl-item-inner h5 {
+        font-size: 14px;
+        padding: 15px 15px;
+    }
+    .three-d-slider .slick-list {
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+        padding-left: 25% !important;
+        padding-right: 25% !important;
+    }
+    .three-d-slider .slick-sprev {
+        transform: translate3d(-84%, 0, 0px) scale(.8) rotateY(-30deg);
+    }
+    .three-d-slider .slick-snext {
+        transform: translate3d(84%, 0, 0px) scale(.8) rotateY(30deg);
+    }
+    .hero-content {
+        margin-bottom: 20px;
+    }
+    .hero-content a.btn {
+        min-width: 210px;
+        padding: 18px 30px;
+    }
+    .section.hero-area {
+        padding-top: 145px;
+    }
+    .para p:not(:last-child) {
+        margin-bottom: 16px;
+    }
+    .para p {
+        font-size: 18px;
+    }
+    .section-title h2 {
+        font-size: 34px;
+    }
+    .section-title {
+        margin-bottom: 30px;
+    }
+    .section-inner {
+        padding: 50px 0;
+    }
+    .about-area .para {
+        margin-bottom: 30px;
+    }
+    .join-title h2 {
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .sv-right-part h4 {
+        font-size: 20px;
+    }
+    .sv-g-blk {
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 15px;
+    }
+    .table.statics {
+        min-width: 600px;
+    }
+    .about-table-wrap {
+        overflow-x: scroll;
+    }
+    .table.statics th,
+    .table.statics td  {
+        font-size: 16px;
+        padding: 15px 5px;
+    }
+    .about-area .section-inner {
+        padding-bottom: 20px;
+    }
+    .slider-first-rw div img, .slider-second-rw div img {
+        padding: 10px;
+        max-width: 140px;
+    }
+    .full-w-slider-rw-wrap {
+        margin-top: 100px;
+        margin-bottom: 0;
+    }
+    .invitation-content p {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+    .invitation-inner {
+        padding: 0 24px;
+    }
+    .position-absolute.inverted-up {
+        top: -14px;
+        left: 0;
+    }
+    .inverted-up, .inverted-down {
+        max-height: 45px;
+    }
+    .position-absolute.inverted-down {
+        right: 0;
+        bottom: -15px;
+    }
+    .link.join {
+        font-size: 20px;
+    }
+    .timer-content {
+        margin-top: 30px;
+        padding: 30px;
+    }
+    .invitation-area .section-inner {
+        padding-bottom: 0;
+    }
+    p {
+        font-size: 18px;
+    }
+    .row.wa-2 {
+        margin-top: 30px;
+    }
+    .wass-item {
+        padding: 20px;
+    }
+    .wass-sec-img img {
+        max-height: 600px;
+        max-width: 100%;
+    }
+    .rew-rw-img img {
+        max-width: 130px;
+    }
+    .reward-lf-rw h4 span {
+        font-size: 18px;
+    }
+    .reward-lf-rw h4 {
+        font-size: 22px;
+    }
+    .reward-lf-rw {
+        max-width: 480px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 15px;
+    }
+    .reward-right-part.reward-bg h4 {
+        font-size: 18px;
+    }
+    .reward-right-part.reward-bg {
+        padding: 20px;
+    }
+    .roadmap-phase {
+        margin-left: 0;
+    }
+    .team-g-wrap {
+        grid-gap: 20px;
+        max-width: 100%;
+    }
+    .member-contact {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .ft-logo {
+        width: 200px;
+        margin-bottom: 30px;
+    }
+    .hash-tag {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .copyright-text {
+        font-size: 17px;
+        font-weight: normal;
+        margin-bottom: 15px;
+    }
+    .timer-content-inner h6 {
+        font-size: 22px;
+    }
+    .timer-content-inner img {
+        width: 36px;
+        margin-bottom: 22px;
+    }
+    .watermark-logo {
+        max-width: 90%;
+    }
+
+}
